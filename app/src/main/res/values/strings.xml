@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVM Test</string>
+
+    <string name="WordList_actionbar_title">Words list</string>
+
+    <string name="AddWord_actionbar_title">Add word</string>
+    <string name="AddWord_textinputedittext_hint">Insert a word</string>
+    <string name="AddWord_textinputedittext_error">Field cannot be empty</string>
+    <string name="AddWord_saveBtn_text">Save word</string>
+</resources>
